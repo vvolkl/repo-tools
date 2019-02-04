@@ -1,0 +1,7 @@
+*.deb
+InRelease
+Release
+Packages
+Release.gpg
+keyFile
+package_cache_db
